@@ -1,0 +1,7 @@
+[project]
+name = "maru9-web-search"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = []
